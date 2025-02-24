@@ -1,10 +1,7 @@
 # ClawLegaltech
 # Resignation Management System
 
-A modern web application built with React and TypeScript for managing employee resignations and exit interviews efficiently.
-
-![Resignation Management System](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=2000)
-
+A modern web application built with React and TypeScript for managing employee resignations and exit interviews efficiently
 ## Features
 
 ### For Employees
